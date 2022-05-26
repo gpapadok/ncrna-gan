@@ -13,5 +13,3 @@ Expected output is a runs folder with produced samples and saved weights along
 with Wasserstein loss curves.
 Subfolder name can be modified by version parameter in code.
 
-##
-GAN architecture inspired and largely based on [Feedback GAN](https://github.com/av1659/fbgan).
